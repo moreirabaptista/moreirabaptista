@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jose baptista
-- 👀 I’m interested IOT, Data Mining
-- 🌱 I’m currently learning Python, C and Swift
+- 👀 I’m interested IOT, R
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on IOT projects
 - 📫 How to reach me jmoreirabaptista@gmail.com
 
